@@ -14,7 +14,7 @@
 
 <script>
 //import HelloWorld from './components/HelloWorld.vue'
-
+//添加了一行注释，右边是原来版本的，红色表示
 export default {
   name: 'App',
   // components: {
