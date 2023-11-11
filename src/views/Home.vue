@@ -1,5 +1,5 @@
 <template>
-    <h1>芝士home??????</h1>
+    <h1>芝士home</h1>
 </template>
 <script>
 export default {
