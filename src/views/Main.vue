@@ -1,7 +1,7 @@
 <template>
     <div>
         <el-container>
-            <el-aside width="200px">
+            <el-aside width="auto">
                 <common-asid />
             </el-aside>
             <el-container>
