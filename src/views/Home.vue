@@ -219,7 +219,9 @@ export default {
     },
     // mounted() {
     //     getData().then((data) => {
-    //         console.log(data)
+    //         这里还需要补充data的数据
+    //         const {tableDAta} = data.data
+    //         this.tableData = tableData
     //     })
     // }
 }
