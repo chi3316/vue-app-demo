@@ -33,7 +33,8 @@ export default {
   margin-top: 60px;
 } */
 html,
-body {
+body,
+p {
   margin: 0;
   padding: 0;
 }
