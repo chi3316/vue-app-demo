@@ -130,7 +130,7 @@
 </style>
 
 <script>
-import { getData } from '../api'
+// import { getData } from '../api'
 export default {
     data() {
         return {
@@ -173,7 +173,7 @@ export default {
                 },
             ],
             tableLable: {
-                name: '课程',
+                name: '品牌',
                 todayBuy: '今日购买',
                 monthBuy: '本月购买'
             },
@@ -217,10 +217,10 @@ export default {
             ]
         }
     },
-    mounted() {
-        getData().then((data) => {
-            console.log(data)
-        })
-    }
+    // mounted() {
+    //     getData().then((data) => {
+    //         console.log(data)
+    //     })
+    // }
 }
 </script>
