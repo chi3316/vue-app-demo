@@ -44,7 +44,7 @@
 }
 
 .el-menu {
-    height: 100vh;
+    height: 100%;
     border-right: none;
 
     h3 {
